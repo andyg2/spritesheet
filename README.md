@@ -59,16 +59,16 @@ The URL of the generated sprite image file.
 
 ```css
   .right-sprite { 
-  background: url("assets/css/sprites/right-sprite.jpg");
+    background: url("assets/css/sprites/right-sprite.jpg");
   }
   .right-sprite spr-2-fun-dives-for-2-divers { 
-  background-position: -0px -0px; 
+    background-position: -0px -0px; 
   }
   .right-sprite spr-2-scoop-ice-cream { 
-  background-position: -200px -0px; 
+    background-position: -200px -0px; 
   }
   .right-sprite spr-3-dive-against-debris-dives-for-2-divers { 
-  background-position: -400px -0px; 
+    background-position: -400px -0px; 
   }
 
 ```
