@@ -49,6 +49,13 @@ sourceImagesFolder (required): The folder containing the source images.
 outputUrlSlugs (required): The output URL path.
 ```
 
+Generates CSS and Sprite Image (see example-output directory)
+
+```
+assets/css/sprites/right-sprite.css
+assets/css/sprites/right-sprite.jpg
+```
+
 Returns:
 
 ```text
@@ -59,7 +66,7 @@ The URL of the generated sprite image file.
 
 ```css
   .right-sprite { 
-    background: url("assets/css/sprites/right-sprite.jpg");
+    background: url("right-sprite.jpg");
   }
   .right-sprite spr-2-fun-dives-for-2-divers { 
     background-position: -0px -0px; 

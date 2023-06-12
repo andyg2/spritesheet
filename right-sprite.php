@@ -108,10 +108,8 @@ function create_sprites($p) {
       $offsetTop = 0;
 
       $cssPath = $writeSpriteFilesPublicDir . '/' . $cssClass . '.css';
-      $jpgPath = $writeSpriteFilesPublicDir . '/' . $cssClass . '.jpg';
-      $jpgUrl = get_url($jpgPath, $outputUrlSlugs);
       $cssUrl = get_url($cssPath, $outputUrlSlugs);
-      $cssContent = '.' . $cssClass . ' { ' . "\n\t" . 'background: url("' . $jpgUrl . '");' . "\n" . '}';
+      $cssContent = '.' . $cssClass . ' { ' . "\n\t" . 'background: url("' . $cssClass . '.jpg' . '");' . "\n" . '}';
       foreach ($sourceImageFiles as $file) {
         $filename = basename($file);
         // Load the sprite image
