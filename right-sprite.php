@@ -109,7 +109,7 @@ function create_sprites($p) {
 
       $cssPath = $writeSpriteFilesPublicDir . '/' . $cssClass . '.css';
       $cssUrl = get_url($cssPath, $outputUrlSlugs);
-      $cssContent = '.' . $cssClass . ' { ' . "\n\t" . 'background: url("' . $cssClass . '.jpg' . '");' . "\n" . '}';
+      $cssContent = '.' . $cssClass . ' { ' . "\n\t" . 'background: url("' . $cssClass . '.jpg' . '");' . "\n\t" . 'background-size: ' . $width . 'px ' . $height . 'px;' . "\n" . '}';
       foreach ($sourceImageFiles as $file) {
         $filename = basename($file);
         // Load the sprite image
@@ -135,7 +135,7 @@ function create_sprites($p) {
         imagecopy($spriteImage, $resizedSpriteImage, $offsetLeft, $offsetTop, 0, 0, $spriteWidth, $spriteHeight);
 
         // Generate the CSS class name using the file basename
-        $className = '' . $cssClass . ' spr-' . preg_replace(['/[^a-zA-Z0-9]+/', '/-+/'], ['-', '-'], strtolower($filename));
+        $className = '' . $cssClass . '.spr-' . preg_replace(['/[^a-zA-Z0-9]+/', '/-+/'], ['-', '-'], strtolower($filename));
 
         // Append the CSS rule to the stylesheet content
         $cssContent .= "\n" . '.' . $className . ' { ' . "\n\t" . 'background-position: -' . $offsetLeft . 'px -' . $offsetTop . 'px; ' . "\n" . '}';
