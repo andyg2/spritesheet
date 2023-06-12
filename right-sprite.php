@@ -3,8 +3,8 @@ $p = $r = [];
 $p['cssClass'] = 'right-sprite';                                            // CSS Class name
 $p['spriteWidth'] = 200;                                                    // Cropped Sprite width (cover crop)
 $p['spriteHeight'] = 200;                                                   // Cropped Sprite height (cover crop)
-$p['writeSpriteFilesPublic'] = '../../liquidhub/web/assets/css/sprites';    // Relative output directory (no slashes)
-$p['sourceImagesFolder'] = '../../liquidhub/web/assets/images/item-images'; // Relative images input directory (no slashes) (recursive)
+$p['writeSpriteFilesPublic'] = '../../anywhere/web/assets/css/sprites';    // Relative output directory (no slashes)
+$p['sourceImagesFolder'] = '../../anywhere/web/assets/images/item-images'; // Relative images input directory (no slashes) (recursive)
 $p['outputUrlSlugs'] = 'assets/css/sprites';                                // Output url path (no slashes) (relative)
 
 echo create_sprites($p, $r);
