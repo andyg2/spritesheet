@@ -90,3 +90,5 @@ preg_replace(['/[^a-zA-Z0-9]+/', '/-+/'], ['-', '-'], strtolower($filename));
 ### Caching
 
 As a large directory opf fullsize images might take a while to process, the script creates a sprite sized thumbnail for faster reprocessing - these are placed in the [script directory]/cropped/file-name-200x200.png
+
+Made for this SO question: <https://stackoverflow.com/questions/19229123/css-sprites-for-dynamic-images-using-php>
