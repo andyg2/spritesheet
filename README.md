@@ -16,12 +16,12 @@ The Sprite Creator is a PHP script that generates a sprite image and correspondi
 
 ```php
 $p = [];
-$p['cssClass'] = 'right-sprite';
-$p['spriteWidth'] = 200;
-$p['spriteHeight'] = 200;
-$p['writeSpriteFilesPublic'] = '../../anywhere/web/assets/css/sprites';
-$p['sourceImagesFolder'] = '../../anywhere/web/assets/images/item-images';
-$p['outputUrlSlugs'] = 'assets/css/sprites';
+$p['cssClass'] = 'right-sprite';                  // CSS Class name
+$p['spriteWidth'] = 32;                           // Cropped Sprite width (cover crop)
+$p['spriteHeight'] = 32;                          // Cropped Sprite height (cover crop)
+$p['writeSpriteFilesPublic'] = 'example-output';  // Relative output directory (no slashes)
+$p['sourceImagesFolder'] = 'example-input';       // Relative images input directory (no slashes) (recursive)
+$p['outputUrlSlugs'] = 'assets/css/sprites';      // Output url path (no slashes) (relative)
 
 echo create_sprites($p);
 
@@ -52,8 +52,8 @@ outputUrlSlugs (required): The output URL path.
 Generates CSS and Sprite Image (see example-output directory)
 
 ```
-assets/css/sprites/right-sprite.css
-assets/css/sprites/right-sprite.jpg
+example-output/right-sprite.css
+example-output/right-sprite.jpg
 ```
 
 Returns:
@@ -65,18 +65,19 @@ The URL of the generated sprite image file.
 ### CSS Generation
 
 ```css
-  .right-sprite { 
-    background: url("right-sprite.jpg");
-  }
-  .right-sprite spr-2-fun-dives-for-2-divers { 
-    background-position: -0px -0px; 
-  }
-  .right-sprite spr-2-scoop-ice-cream { 
-    background-position: -200px -0px; 
-  }
-  .right-sprite spr-3-dive-against-debris-dives-for-2-divers { 
-    background-position: -400px -0px; 
-  }
+
+      .right-sprite { 
+        background: url("right-sprite.png");
+        background-size: 544px 512px;
+      }
+      
+      .right-sprite.spr-example-1-png { 
+        background-position: -0px -0px; 
+      }
+      
+      .right-sprite.spr-example-2-png { 
+        background-position: -32px -0px; 
+      }
 
 ```
 
