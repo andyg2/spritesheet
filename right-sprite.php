@@ -1,13 +1,20 @@
 <?php
 $p = $r = [];
-$p['cssClass'] = 'right-sprite';                                            // CSS Class name
-$p['spriteWidth'] = 200;                                                    // Cropped Sprite width (cover crop)
-$p['spriteHeight'] = 200;                                                   // Cropped Sprite height (cover crop)
-$p['writeSpriteFilesPublic'] = '../../anywhere/web/assets/css/sprites';    // Relative output directory (no slashes)
-$p['sourceImagesFolder'] = '../../anywhere/web/assets/images/item-images'; // Relative images input directory (no slashes) (recursive)
-$p['outputUrlSlugs'] = 'assets/css/sprites';                                // Output url path (no slashes) (relative)
+$p['cssClass'] = 'right-sprite';                  // CSS Class name
+$p['spriteWidth'] = 32;                           // Cropped Sprite width (cover crop)
+$p['spriteHeight'] = 32;                          // Cropped Sprite height (cover crop)
+$p['writeSpriteFilesPublic'] = 'example-output';         // Relative output directory (no slashes)
+$p['sourceImagesFolder'] = 'example-input';               // Relative images input directory (no slashes) (recursive)
+$p['outputUrlSlugs'] = 'assets/css/sprites';      // Output url path (no slashes) (relative)
 
-echo create_sprites($p, $r);
+if (php_sapi_name() == "cli") {
+  echo create_sprites($p, $r);
+} else {
+  echo '<pre>';
+  echo create_sprites($p, $r);
+  echo '</pre>';
+}
+
 
 
 
@@ -98,17 +105,20 @@ function create_sprites($p) {
 
       // Create a blank image for the sprites
       $spriteImage = imagecreatetruecolor($width, $height);
+      imagealphablending($spriteImage, false);
+      imagesavealpha($spriteImage, true);
 
-      // Set a background color for the image (optional)
-      $backgroundColor = imagecolorallocate($spriteImage, 255, 255, 255);
-      imagefill($spriteImage, 0, 0, $backgroundColor);
+      // Set a transparent background color for the image
+      $transparentindex = imagecolorallocatealpha($spriteImage, 255, 255, 255, 127);
+      imagefill($spriteImage, 0, 0, $transparentindex);
+
 
       // Variables to keep track of placement
       $offsetLeft = 0;
       $offsetTop = 0;
 
       $cssPath = $writeSpriteFilesPublicDir . '/' . $cssClass . '.css';
-      $cssUrl = get_url($cssPath, $outputUrlSlugs);
+      $cssFile = get_url($cssPath, $outputUrlSlugs);
       $cssContent = '.' . $cssClass . ' { ' . "\n\t" . 'background: url("' . $cssClass . '.jpg' . '");' . "\n\t" . 'background-size: ' . $width . 'px ' . $height . 'px;' . "\n" . '}';
       foreach ($sourceImageFiles as $file) {
         $filename = basename($file);
@@ -138,7 +148,7 @@ function create_sprites($p) {
         $className = '' . $cssClass . '.spr-' . preg_replace(['/[^a-zA-Z0-9]+/', '/-+/'], ['-', '-'], strtolower($filename));
 
         // Append the CSS rule to the stylesheet content
-        $cssContent .= "\n" . '.' . $className . ' { ' . "\n\t" . 'background-position: -' . $offsetLeft . 'px -' . $offsetTop . 'px; ' . "\n" . '}';
+        $cssContent .= "\n\n" . '.' . $className . ' { ' . "\n\t" . 'background-position: -' . $offsetLeft . 'px -' . $offsetTop . 'px; ' . "\n" . '}';
 
         // Calculate the position for the next sprite image
         $offsetLeft += $spriteWidth;
@@ -149,23 +159,47 @@ function create_sprites($p) {
         // Free up memory
         imagedestroy($resizedSpriteImage);
       }
+      echo PHP_EOL;
 
       // Save or output the final sprite image
-      imagejpeg($spriteImage, $writeSpriteFilesPublicDir . '/' . $cssClass . '.jpg', 60);
+      imagepng($spriteImage, $writeSpriteFilesPublicDir . '/' . $cssClass . '.png', 0);
       imagedestroy($spriteImage);
 
       // Save the CSS stylesheet
       file_put_contents($cssPath, $cssContent);
     }
-    print_r([
-      'cssClass' => $cssClass,
-      'spriteWidth' => $spriteWidth,
-      'spriteHeight' => $spriteHeight,
-      'writeSpriteFilesPublic' => $writeSpriteFilesPublic,
-      'sourceImagesFolder' => $sourceImagesFolder,
-      'outputUrlSlugs' => $outputUrlSlugs,
-    ]);
-    return ($cssUrl);
+
+    // Finally output some details and example
+
+    print_r(
+      [
+        'cssClass' => $cssClass,
+        'spriteWidth' => $spriteWidth,
+        'spriteHeight' => $spriteHeight,
+        'writeSpriteFilesPublic' => $writeSpriteFilesPublic,
+        'sourceImagesFolder' => $sourceImagesFolder,
+        'outputUrlSlugs' => $outputUrlSlugs,
+        'width' => $width,
+        'height' => $height,
+        'cssFile' => $cssFile,
+      ]
+    );
+    print_r('
+    Example: 
+
+      .' . $cssClass . ' { 
+        background: url("' . $p['cssClass'] . '.png");
+        background-size: ' . $width . 'px ' . $height . 'px;
+      }
+      
+      .' . $cssClass . '.spr-example-1-png { 
+        background-position: -0px -0px; 
+      }
+      
+      .' . $cssClass . '.spr-example-2-png { 
+        background-position: -' . $spriteWidth . 'px -0px; 
+      }
+      ');
   } else {
     // usage
   }

@@ -1,1524 +1,1044 @@
-.right-sprite {
-  background: url("right-sprite.jpg");
-  background-size: 4000px 4000px;
+.right-sprite { 
+	background: url("right-sprite.jpg");
+	background-size: 544px 512px;
 }
 
-.right-sprite.spr-2-fun-dives-for-2-divers-png {
-  background-position: -0px -0px;
+.right-sprite.spr-abkhazia-png { 
+	background-position: -0px -0px; 
 }
 
-.right-sprite.spr-2-scoop-ice-cream-png {
-  background-position: -200px -0px;
+.right-sprite.spr-afghanistan-png { 
+	background-position: -32px -0px; 
 }
 
-.right-sprite.spr-3-dive-against-debris-dives-for-2-divers-png {
-  background-position: -400px -0px;
+.right-sprite.spr-aland-png { 
+	background-position: -64px -0px; 
 }
 
-.right-sprite.spr-50-cancellation-fee-standard-room-png {
-  background-position: -600px -0px;
+.right-sprite.spr-albania-png { 
+	background-position: -96px -0px; 
 }
 
-.right-sprite.spr-50-cancellation-fee-png {
-  background-position: -800px -0px;
+.right-sprite.spr-algeria-png { 
+	background-position: -128px -0px; 
 }
 
-.right-sprite.spr-6-eanx-tanks-for-2-divers-png {
-  background-position: -1000px -0px;
+.right-sprite.spr-american-samoa-png { 
+	background-position: -160px -0px; 
 }
 
-.right-sprite.spr-absolut-vodka-png {
-  background-position: -1200px -0px;
+.right-sprite.spr-andorra-png { 
+	background-position: -192px -0px; 
 }
 
-.right-sprite.spr-add-chicken-png {
-  background-position: -1400px -0px;
+.right-sprite.spr-angola-png { 
+	background-position: -224px -0px; 
 }
 
-.right-sprite.spr-add-grilled-chicken-png {
-  background-position: -1600px -0px;
+.right-sprite.spr-anguilla-png { 
+	background-position: -256px -0px; 
 }
 
-.right-sprite.spr-add-grilled-fish-png {
-  background-position: -1800px -0px;
+.right-sprite.spr-antarctica-png { 
+	background-position: -288px -0px; 
 }
 
-.right-sprite.spr-add-grilled-shrimp-png {
-  background-position: -2000px -0px;
+.right-sprite.spr-antigua-and-barbuda-png { 
+	background-position: -320px -0px; 
 }
 
-.right-sprite.spr-add-on-pan-fried-bangus-fillet-png {
-  background-position: -2200px -0px;
+.right-sprite.spr-argentina-png { 
+	background-position: -352px -0px; 
 }
 
-.right-sprite.spr-advanced-open-water-e-learning-png {
-  background-position: -2400px -0px;
+.right-sprite.spr-armenia-png { 
+	background-position: -384px -0px; 
 }
 
-.right-sprite.spr-advanced-open-water-png {
-  background-position: -2600px -0px;
+.right-sprite.spr-aruba-png { 
+	background-position: -416px -0px; 
 }
 
-.right-sprite.spr-aglio-olio-png {
-  background-position: -2800px -0px;
+.right-sprite.spr-australia-png { 
+	background-position: -448px -0px; 
 }
 
-.right-sprite.spr-airport-to-liquid-png {
-  background-position: -3000px -0px;
+.right-sprite.spr-austria-png { 
+	background-position: -480px -0px; 
 }
 
-.right-sprite.spr-airport-valencia-market-liquid-png {
-  background-position: -3200px -0px;
+.right-sprite.spr-azerbaijan-png { 
+	background-position: -512px -0px; 
 }
 
-.right-sprite.spr-americano-png {
-  background-position: -3400px -0px;
+.right-sprite.spr-bahamas-png { 
+	background-position: -0px -32px; 
 }
 
-.right-sprite.spr-aow-course-png {
-  background-position: -3600px -0px;
+.right-sprite.spr-bahrain-png { 
+	background-position: -32px -32px; 
 }
 
-.right-sprite.spr-apo-day-trip-diving-png {
-  background-position: -3800px -0px;
+.right-sprite.spr-bangladesh-png { 
+	background-position: -64px -32px; 
 }
 
-.right-sprite.spr-apo-island-boat-passenger-png {
-  background-position: -0px -200px;
+.right-sprite.spr-barbados-png { 
+	background-position: -96px -32px; 
 }
 
-.right-sprite.spr-apo-island-day-trip-png {
-  background-position: -200px -200px;
+.right-sprite.spr-basque-country-png { 
+	background-position: -128px -32px; 
 }
 
-.right-sprite.spr-apo-island-lunch-png {
-  background-position: -400px -200px;
+.right-sprite.spr-belarus-png { 
+	background-position: -160px -32px; 
 }
 
-.right-sprite.spr-apo-island-old-price-png {
-  background-position: -600px -200px;
+.right-sprite.spr-belgium-png { 
+	background-position: -192px -32px; 
 }
 
-.right-sprite.spr-apo-island-sf-png {
-  background-position: -800px -200px;
+.right-sprite.spr-belize-png { 
+	background-position: -224px -32px; 
 }
 
-.right-sprite.spr-asian-noodle-soup-png {
-  background-position: -1000px -200px;
+.right-sprite.spr-benin-png { 
+	background-position: -256px -32px; 
 }
 
-.right-sprite.spr-bais-dolphin-trip-png {
-  background-position: -1200px -200px;
+.right-sprite.spr-bermuda-png { 
+	background-position: -288px -32px; 
 }
 
-.right-sprite.spr-baked-scallops-png {
-  background-position: -1400px -200px;
+.right-sprite.spr-bhutan-png { 
+	background-position: -320px -32px; 
 }
 
-.right-sprite.spr-bamboo-toy-car-png {
-  background-position: -1600px -200px;
+.right-sprite.spr-bolivia-png { 
+	background-position: -352px -32px; 
 }
 
-.right-sprite.spr-banana-mango-split-png {
-  background-position: -1800px -200px;
+.right-sprite.spr-bosnia-and-herzegovina-png { 
+	background-position: -384px -32px; 
 }
 
-.right-sprite.spr-banana-turon-png {
-  background-position: -2000px -200px;
+.right-sprite.spr-botswana-png { 
+	background-position: -416px -32px; 
 }
 
-.right-sprite.spr-banana-png {
-  background-position: -2200px -200px;
+.right-sprite.spr-brazil-png { 
+	background-position: -448px -32px; 
 }
 
-.right-sprite.spr-barkada-a-png {
-  background-position: -2400px -200px;
+.right-sprite.spr-british-antarctic-territory-png { 
+	background-position: -480px -32px; 
 }
 
-.right-sprite.spr-barkarda-b-png {
-  background-position: -2600px -200px;
+.right-sprite.spr-british-virgin-islands-png { 
+	background-position: -512px -32px; 
 }
 
-.right-sprite.spr-barkarda-c-png {
-  background-position: -2800px -200px;
+.right-sprite.spr-brunei-png { 
+	background-position: -0px -64px; 
 }
 
-.right-sprite.spr-barkarda-d-png {
-  background-position: -3000px -200px;
+.right-sprite.spr-bulgaria-png { 
+	background-position: -32px -64px; 
 }
 
-.right-sprite.spr-bbq-png {
-  background-position: -3200px -200px;
+.right-sprite.spr-burkina-faso-png { 
+	background-position: -64px -64px; 
 }
 
-.right-sprite.spr-bcd-rental-per-day-png {
-  background-position: -3400px -200px;
+.right-sprite.spr-burundi-png { 
+	background-position: -96px -64px; 
 }
 
-.right-sprite.spr-bcd-rental-per-dive-png {
-  background-position: -3600px -200px;
+.right-sprite.spr-cambodia-png { 
+	background-position: -128px -64px; 
 }
 
-.right-sprite.spr-beach-towel-rental-png {
-  background-position: -3800px -200px;
+.right-sprite.spr-cameroon-png { 
+	background-position: -160px -64px; 
 }
 
-.right-sprite.spr-beef-tacos-png {
-  background-position: -0px -400px;
+.right-sprite.spr-canada-png { 
+	background-position: -192px -64px; 
 }
 
-.right-sprite.spr-beers-red-horse-png {
-  background-position: -200px -400px;
+.right-sprite.spr-canary-islands-png { 
+	background-position: -224px -64px; 
 }
 
-.right-sprite.spr-beers-sm-apple-png {
-  background-position: -400px -400px;
+.right-sprite.spr-cape-verde-png { 
+	background-position: -256px -64px; 
 }
 
-.right-sprite.spr-beers-sm-pale-png {
-  background-position: -600px -400px;
+.right-sprite.spr-cayman-islands-png { 
+	background-position: -288px -64px; 
 }
 
-.right-sprite.spr-beers-sm-zero-png {
-  background-position: -800px -400px;
+.right-sprite.spr-central-african-republic-png { 
+	background-position: -320px -64px; 
 }
 
-.right-sprite.spr-beers-sml-png {
-  background-position: -1000px -400px;
+.right-sprite.spr-chad-png { 
+	background-position: -352px -64px; 
 }
 
-.right-sprite.spr-blueberry-cheesecake-png {
-  background-position: -1200px -400px;
+.right-sprite.spr-chile-png { 
+	background-position: -384px -64px; 
 }
 
-.right-sprite.spr-bombay-sapphire-gin-png {
-  background-position: -1400px -400px;
+.right-sprite.spr-china-png { 
+	background-position: -416px -64px; 
 }
 
-.right-sprite.spr-bookingcom-1-night-png {
-  background-position: -1600px -400px;
+.right-sprite.spr-christmas-island-png { 
+	background-position: -448px -64px; 
 }
 
-.right-sprite.spr-bread-dips-png {
-  background-position: -1800px -400px;
+.right-sprite.spr-cocos-keeling-islands-png { 
+	background-position: -480px -64px; 
 }
 
-.right-sprite.spr-breakfast-bagel-png {
-  background-position: -2000px -400px;
+.right-sprite.spr-colombia-png { 
+	background-position: -512px -64px; 
 }
 
-.right-sprite.spr-breakfast-burrito-png {
-  background-position: -2200px -400px;
+.right-sprite.spr-commonwealth-png { 
+	background-position: -0px -96px; 
 }
 
-.right-sprite.spr-brownie-a-la-mode-png {
-  background-position: -2400px -400px;
+.right-sprite.spr-comoros-png { 
+	background-position: -32px -96px; 
 }
 
-.right-sprite.spr-bruschetta-png {
-  background-position: -2600px -400px;
+.right-sprite.spr-cook-islands-png { 
+	background-position: -64px -96px; 
 }
 
-.right-sprite.spr-cake-corkage-png {
-  background-position: -2800px -400px;
+.right-sprite.spr-costa-rica-png { 
+	background-position: -96px -96px; 
 }
 
-.right-sprite.spr-calamansi-png {
-  background-position: -3000px -400px;
+.right-sprite.spr-cote-divoire-png { 
+	background-position: -128px -96px; 
 }
 
-.right-sprite.spr-calamari-png {
-  background-position: -3200px -400px;
+.right-sprite.spr-croatia-png { 
+	background-position: -160px -96px; 
 }
 
-.right-sprite.spr-camaron-rebosado-png {
-  background-position: -3400px -400px;
+.right-sprite.spr-cuba-png { 
+	background-position: -192px -96px; 
 }
 
-.right-sprite.spr-cancellation-fee-apo-dive-png {
-  background-position: -3600px -400px;
+.right-sprite.spr-curacao-png { 
+	background-position: -224px -96px; 
 }
 
-.right-sprite.spr-catering-corkage-fees-png {
-  background-position: -3800px -400px;
+.right-sprite.spr-cyprus-png { 
+	background-position: -256px -96px; 
 }
 
-.right-sprite.spr-cb-liquid-house-breakfast-png {
-  background-position: -0px -600px;
+.right-sprite.spr-czech-republic-png { 
+	background-position: -288px -96px; 
 }
 
-.right-sprite.spr-chamomile-png {
-  background-position: -200px -600px;
+.right-sprite.spr-democratic-republic-of-the-congo-png { 
+	background-position: -320px -96px; 
 }
 
-.right-sprite.spr-chicken-and-mango-quesadilla-png {
-  background-position: -400px -600px;
+.right-sprite.spr-denmark-png { 
+	background-position: -352px -96px; 
 }
 
-.right-sprite.spr-chicken-kebab-png {
-  background-position: -600px -600px;
+.right-sprite.spr-djibouti-png { 
+	background-position: -384px -96px; 
 }
 
-.right-sprite.spr-chicken-pork-adobo-png {
-  background-position: -800px -600px;
+.right-sprite.spr-dominica-png { 
+	background-position: -416px -96px; 
 }
 
-.right-sprite.spr-chicken-strips-png {
-  background-position: -1000px -600px;
+.right-sprite.spr-dominican-republic-png { 
+	background-position: -448px -96px; 
 }
 
-.right-sprite.spr-chicken-wings-png {
-  background-position: -1200px -600px;
+.right-sprite.spr-east-timor-png { 
+	background-position: -480px -96px; 
 }
 
-.right-sprite.spr-chicken-png {
-  background-position: -1400px -600px;
+.right-sprite.spr-ecuador-png { 
+	background-position: -512px -96px; 
 }
 
-.right-sprite.spr-chinese-green-tea-png {
-  background-position: -1600px -600px;
+.right-sprite.spr-egypt-png { 
+	background-position: -0px -128px; 
 }
 
-.right-sprite.spr-choco-cake-png {
-  background-position: -1800px -600px;
+.right-sprite.spr-el-salvador-png { 
+	background-position: -32px -128px; 
 }
 
-.right-sprite.spr-chopsuey-png {
-  background-position: -2000px -600px;
+.right-sprite.spr-england-png { 
+	background-position: -64px -128px; 
 }
 
-.right-sprite.spr-christmas-dinner-png {
-  background-position: -2200px -600px;
+.right-sprite.spr-equatorial-guinea-png { 
+	background-position: -96px -128px; 
 }
 
-.right-sprite.spr-city-tours-png {
-  background-position: -2400px -600px;
+.right-sprite.spr-eritrea-png { 
+	background-position: -128px -128px; 
 }
 
-.right-sprite.spr-classic-cheeseburger-png {
-  background-position: -2600px -600px;
+.right-sprite.spr-estonia-png { 
+	background-position: -160px -128px; 
 }
 
-.right-sprite.spr-classic-nicoise-salad-png {
-  background-position: -2800px -600px;
+.right-sprite.spr-ethiopia-png { 
+	background-position: -192px -128px; 
 }
 
-.right-sprite.spr-classic-pepperoni-png {
-  background-position: -3000px -600px;
+.right-sprite.spr-european-union-png { 
+	background-position: -224px -128px; 
 }
 
-.right-sprite.spr-classsic-mojito-png {
-  background-position: -3200px -600px;
+.right-sprite.spr-falkland-islands-png { 
+	background-position: -256px -128px; 
 }
 
-.right-sprite.spr-coastal-apo-daytrip-png {
-  background-position: -3400px -600px;
+.right-sprite.spr-faroes-png { 
+	background-position: -288px -128px; 
 }
 
-.right-sprite.spr-cobb-salad-png {
-  background-position: -3600px -600px;
+.right-sprite.spr-fiji-png { 
+	background-position: -320px -128px; 
 }
 
-.right-sprite.spr-cocktail-apo-island-iced-tea-png {
-  background-position: -3800px -600px;
+.right-sprite.spr-finland-png { 
+	background-position: -352px -128px; 
 }
 
-.right-sprite.spr-cocktail-calamansi-margarita-png {
-  background-position: -0px -800px;
+.right-sprite.spr-france-png { 
+	background-position: -384px -128px; 
 }
 
-.right-sprite.spr-coco-loco-pina-colada-png {
-  background-position: -200px -800px;
+.right-sprite.spr-french-polynesia-png { 
+	background-position: -416px -128px; 
 }
 
-.right-sprite.spr-coffee-cafe-latte-png {
-  background-position: -400px -800px;
+.right-sprite.spr-french-southern-territories-png { 
+	background-position: -448px -128px; 
 }
 
-.right-sprite.spr-coffee-cafe-mocha-png {
-  background-position: -600px -800px;
+.right-sprite.spr-gabon-png { 
+	background-position: -480px -128px; 
 }
 
-.right-sprite.spr-coffee-cappuccino-png {
-  background-position: -800px -800px;
+.right-sprite.spr-gambia-png { 
+	background-position: -512px -128px; 
 }
 
-.right-sprite.spr-coffee-double-espresso-png {
-  background-position: -1000px -800px;
+.right-sprite.spr-georgia-png { 
+	background-position: -0px -160px; 
 }
 
-.right-sprite.spr-coffee-single-espresso-png {
-  background-position: -1200px -800px;
+.right-sprite.spr-germany-png { 
+	background-position: -32px -160px; 
 }
 
-.right-sprite.spr-coke-liight-zero-png {
-  background-position: -1400px -800px;
+.right-sprite.spr-ghana-png { 
+	background-position: -64px -160px; 
 }
 
-.right-sprite.spr-coke-png {
-  background-position: -1600px -800px;
+.right-sprite.spr-gibraltar-png { 
+	background-position: -96px -160px; 
 }
 
-.right-sprite.spr-comments-png {
-  background-position: -1800px -800px;
+.right-sprite.spr-gosquared-png { 
+	background-position: -128px -160px; 
 }
 
-.right-sprite.spr-cookies-png {
-  background-position: -2000px -800px;
+.right-sprite.spr-greece-png { 
+	background-position: -160px -160px; 
 }
 
-.right-sprite.spr-creamy-squash-soup-png {
-  background-position: -2200px -800px;
+.right-sprite.spr-greenland-png { 
+	background-position: -192px -160px; 
 }
 
-.right-sprite.spr-crispy-chicken-burger-png {
-  background-position: -2400px -800px;
+.right-sprite.spr-grenada-png { 
+	background-position: -224px -160px; 
 }
 
-.right-sprite.spr-ctrip-booking-standard-room-1-night-png {
-  background-position: -2600px -800px;
+.right-sprite.spr-guam-png { 
+	background-position: -256px -160px; 
 }
 
-.right-sprite.spr-dark-rum-png {
-  background-position: -2800px -800px;
+.right-sprite.spr-guatemala-png { 
+	background-position: -288px -160px; 
 }
 
-.right-sprite.spr-dauin-coastal-daytrip-png {
-  background-position: -3000px -800px;
+.right-sprite.spr-guernsey-png { 
+	background-position: -320px -160px; 
 }
 
-.right-sprite.spr-dauin-dive-sf-with-camera-png {
-  background-position: -3200px -800px;
+.right-sprite.spr-guinea-bissau-png { 
+	background-position: -352px -160px; 
 }
 
-.right-sprite.spr-dauin-dive-sf-png {
-  background-position: -3400px -800px;
+.right-sprite.spr-guinea-png { 
+	background-position: -384px -160px; 
 }
 
-.right-sprite.spr-dauin-night-dive-sf-png {
-  background-position: -3600px -800px;
+.right-sprite.spr-guyana-png { 
+	background-position: -416px -160px; 
 }
 
-.right-sprite.spr-dauin-snorkeling-sf-png {
-  background-position: -3800px -800px;
+.right-sprite.spr-haiti-png { 
+	background-position: -448px -160px; 
 }
 
-.right-sprite.spr-dauin-transfer-png {
-  background-position: -0px -1000px;
+.right-sprite.spr-honduras-png { 
+	background-position: -480px -160px; 
 }
 
-.right-sprite.spr-deep-diver-png {
-  background-position: -200px -1000px;
+.right-sprite.spr-hong-kong-png { 
+	background-position: -512px -160px; 
 }
 
-.right-sprite.spr-delivery-charge-laundry-png {
-  background-position: -400px -1000px;
+.right-sprite.spr-hungary-png { 
+	background-position: -0px -192px; 
 }
 
-.right-sprite.spr-deluxe-room-bookingcom-png {
-  background-position: -600px -1000px;
+.right-sprite.spr-iceland-png { 
+	background-position: -32px -192px; 
 }
 
-.right-sprite.spr-deluxe-room-ctrip-png {
-  background-position: -800px -1000px;
+.right-sprite.spr-india-png { 
+	background-position: -64px -192px; 
 }
 
-.right-sprite.spr-deluxe-room-repeat-guest-png {
-  background-position: -1000px -1000px;
+.right-sprite.spr-indonesia-png { 
+	background-position: -96px -192px; 
 }
 
-.right-sprite.spr-deluxe-room-x1-ctrip-png {
-  background-position: -1200px -1000px;
+.right-sprite.spr-iran-png { 
+	background-position: -128px -192px; 
 }
 
-.right-sprite.spr-deluxe-room-png {
-  background-position: -1400px -1000px;
+.right-sprite.spr-iraq-png { 
+	background-position: -160px -192px; 
 }
 
-.right-sprite.spr-deluxe-upgrade-png {
-  background-position: -1600px -1000px;
+.right-sprite.spr-ireland-png { 
+	background-position: -192px -192px; 
 }
 
-.right-sprite.spr-digital-photography-png {
-  background-position: -1800px -1000px;
+.right-sprite.spr-isle-of-man-png { 
+	background-position: -224px -192px; 
 }
 
-.right-sprite.spr-discover-scuba-dive-png {
-  background-position: -2000px -1000px;
+.right-sprite.spr-israel-png { 
+	background-position: -256px -192px; 
 }
 
-.right-sprite.spr-discover-scuba-divedsd-apo-island-png {
-  background-position: -2200px -1000px;
+.right-sprite.spr-italy-png { 
+	background-position: -288px -192px; 
 }
 
-.right-sprite.spr-discover-scuba-diving-course-png {
-  background-position: -2400px -1000px;
+.right-sprite.spr-jamaica-png { 
+	background-position: -320px -192px; 
 }
 
-.right-sprite.spr-discover-scuba-diving-dsd-png {
-  background-position: -2600px -1000px;
+.right-sprite.spr-japan-png { 
+	background-position: -352px -192px; 
 }
 
-.right-sprite.spr-dive-computer-rental-per-day-png {
-  background-position: -2800px -1000px;
+.right-sprite.spr-jersey-png { 
+	background-position: -384px -192px; 
 }
 
-.right-sprite.spr-dive-computer-rental-per-dive-png {
-  background-position: -3000px -1000px;
+.right-sprite.spr-jordan-png { 
+	background-position: -416px -192px; 
 }
 
-.right-sprite.spr-dive-fin-rental-png {
-  background-position: -3200px -1000px;
+.right-sprite.spr-kazakhstan-png { 
+	background-position: -448px -192px; 
 }
 
-.right-sprite.spr-dive-fins-and-booties-rent-png {
-  background-position: -3400px -1000px;
+.right-sprite.spr-kenya-png { 
+	background-position: -480px -192px; 
 }
 
-.right-sprite.spr-dive-light-per-rental-dive-png {
-  background-position: -3600px -1000px;
+.right-sprite.spr-kiribati-png { 
+	background-position: -512px -192px; 
 }
 
-.right-sprite.spr-dive-log-book-png {
-  background-position: -3800px -1000px;
+.right-sprite.spr-kosovo-png { 
+	background-position: -0px -224px; 
 }
 
-.right-sprite.spr-dive-master-course-4-weeks-png {
-  background-position: -0px -1200px;
+.right-sprite.spr-kuwait-png { 
+	background-position: -32px -224px; 
 }
 
-.right-sprite.spr-dive-master-course-png {
-  background-position: -200px -1200px;
+.right-sprite.spr-kyrgyzstan-png { 
+	background-position: -64px -224px; 
 }
 
-.right-sprite.spr-dive-rental-light-per-day-png {
-  background-position: -400px -1200px;
+.right-sprite.spr-laos-png { 
+	background-position: -96px -224px; 
 }
 
-.right-sprite.spr-divemaster-extra-week-png {
-  background-position: -600px -1200px;
+.right-sprite.spr-latvia-png { 
+	background-position: -128px -224px; 
 }
 
-.right-sprite.spr-dm-daytrip-surcharge-png {
-  background-position: -800px -1200px;
+.right-sprite.spr-lebanon-png { 
+	background-position: -160px -224px; 
 }
 
-.right-sprite.spr-dm-equipment-rental-png {
-  background-position: -1000px -1200px;
+.right-sprite.spr-lesotho-png { 
+	background-position: -192px -224px; 
 }
 
-.right-sprite.spr-dory-png {
-  background-position: -1200px -1200px;
+.right-sprite.spr-liberia-png { 
+	background-position: -224px -224px; 
 }
 
-.right-sprite.spr-dumaguete-express-png {
-  background-position: -1400px -1200px;
+.right-sprite.spr-libya-png { 
+	background-position: -256px -224px; 
 }
 
-.right-sprite.spr-dumaguete-pier-transfer-png {
-  background-position: -1600px -1200px;
+.right-sprite.spr-liechtenstein-png { 
+	background-position: -288px -224px; 
 }
 
-.right-sprite.spr-e-learning-open-water-png {
-  background-position: -1800px -1200px;
+.right-sprite.spr-lithuania-png { 
+	background-position: -320px -224px; 
 }
 
-.right-sprite.spr-eanx-1-9-dives-png {
-  background-position: -2000px -1200px;
+.right-sprite.spr-luxembourg-png { 
+	background-position: -352px -224px; 
 }
 
-.right-sprite.spr-eanx-10-19-dives-png {
-  background-position: -2200px -1200px;
+.right-sprite.spr-macau-png { 
+	background-position: -384px -224px; 
 }
 
-.right-sprite.spr-eanx-no-dives-png {
-  background-position: -2400px -1200px;
+.right-sprite.spr-macedonia-png { 
+	background-position: -416px -224px; 
 }
 
-.right-sprite.spr-eanx-with-2-dives-png {
-  background-position: -2600px -1200px;
+.right-sprite.spr-madagascar-png { 
+	background-position: -448px -224px; 
 }
 
-.right-sprite.spr-earl-gray-png {
-  background-position: -2800px -1200px;
+.right-sprite.spr-malawi-png { 
+	background-position: -480px -224px; 
 }
 
-.right-sprite.spr-efr-manual-png {
-  background-position: -3000px -1200px;
+.right-sprite.spr-malaysia-png { 
+	background-position: -512px -224px; 
 }
 
-.right-sprite.spr-efr-refresher-png {
-  background-position: -3200px -1200px;
+.right-sprite.spr-maldives-png { 
+	background-position: -0px -256px; 
 }
 
-.right-sprite.spr-efr-rescue-diver-course-png {
-  background-position: -3400px -1200px;
+.right-sprite.spr-mali-png { 
+	background-position: -32px -256px; 
 }
 
-.right-sprite.spr-eggs-florentine-png {
-  background-position: -3600px -1200px;
+.right-sprite.spr-malta-png { 
+	background-position: -64px -256px; 
 }
 
-.right-sprite.spr-english-breakfast-png {
-  background-position: -3800px -1200px;
+.right-sprite.spr-mars-png { 
+	background-position: -96px -256px; 
 }
 
-.right-sprite.spr-entrance-fee-non-consumable-png {
-  background-position: -0px -1400px;
+.right-sprite.spr-marshall-islands-png { 
+	background-position: -128px -256px; 
 }
 
-.right-sprite.spr-entrance-fee-png {
-  background-position: -200px -1400px;
+.right-sprite.spr-martinique-png { 
+	background-position: -160px -256px; 
 }
 
-.right-sprite.spr-espresso-martini-png {
-  background-position: -400px -1400px;
+.right-sprite.spr-mauritania-png { 
+	background-position: -192px -256px; 
 }
 
-.right-sprite.spr-extra-bacon-2-strips-png {
-  background-position: -600px -1400px;
+.right-sprite.spr-mauritius-png { 
+	background-position: -224px -256px; 
 }
 
-.right-sprite.spr-extra-baked-beans-png {
-  background-position: -800px -1400px;
+.right-sprite.spr-mayotte-png { 
+	background-position: -256px -256px; 
 }
 
-.right-sprite.spr-extra-bed-png {
-  background-position: -1000px -1400px;
+.right-sprite.spr-mexico-png { 
+	background-position: -288px -256px; 
 }
 
-.right-sprite.spr-extra-cebu-pork-longganisa-png {
-  background-position: -1200px -1400px;
+.right-sprite.spr-micronesia-png { 
+	background-position: -320px -256px; 
 }
 
-.right-sprite.spr-extra-cheese-png {
-  background-position: -1400px -1400px;
+.right-sprite.spr-moldova-png { 
+	background-position: -352px -256px; 
 }
 
-.right-sprite.spr-extra-comforter-png {
-  background-position: -1600px -1400px;
+.right-sprite.spr-monaco-png { 
+	background-position: -384px -256px; 
 }
 
-.right-sprite.spr-extra-eggs-2-any-style-png {
-  background-position: -1800px -1400px;
+.right-sprite.spr-mongolia-png { 
+	background-position: -416px -256px; 
 }
 
-.right-sprite.spr-extra-fresh-fruit-png {
-  background-position: -2000px -1400px;
+.right-sprite.spr-montenegro-png { 
+	background-position: -448px -256px; 
 }
 
-.right-sprite.spr-extra-garlic-rice-png {
-  background-position: -2200px -1400px;
+.right-sprite.spr-montserrat-png { 
+	background-position: -480px -256px; 
 }
 
-.right-sprite.spr-extra-grilled-tomato-png {
-  background-position: -2400px -1400px;
+.right-sprite.spr-morocco-png { 
+	background-position: -512px -256px; 
 }
 
-.right-sprite.spr-extra-person-jpg {
-  background-position: -2600px -1400px;
+.right-sprite.spr-mozambique-png { 
+	background-position: -0px -288px; 
 }
 
-.right-sprite.spr-extra-person-png {
-  background-position: -2800px -1400px;
+.right-sprite.spr-myanmar-png { 
+	background-position: -32px -288px; 
 }
 
-.right-sprite.spr-extra-plain-rice-png {
-  background-position: -3000px -1400px;
+.right-sprite.spr-nagorno-karabakh-png { 
+	background-position: -64px -288px; 
 }
 
-.right-sprite.spr-extra-toast-png {
-  background-position: -3200px -1400px;
+.right-sprite.spr-namibia-png { 
+	background-position: -96px -288px; 
 }
 
-.right-sprite.spr-fins-and-booties-rental-per-day-png {
-  background-position: -3400px -1400px;
+.right-sprite.spr-nato-png { 
+	background-position: -128px -288px; 
 }
 
-.right-sprite.spr-fis-kinilaw-png {
-  background-position: -3600px -1400px;
+.right-sprite.spr-nauru-png { 
+	background-position: -160px -288px; 
 }
 
-.right-sprite.spr-fish-chips-png {
-  background-position: -3800px -1400px;
+.right-sprite.spr-nepal-png { 
+	background-position: -192px -288px; 
 }
 
-.right-sprite.spr-fish-or-chicken-tinola-png {
-  background-position: -0px -1600px;
+.right-sprite.spr-netherlands-antilles-png { 
+	background-position: -224px -288px; 
 }
 
-.right-sprite.spr-fish-steak-with-lemon-sauce-png {
-  background-position: -200px -1600px;
+.right-sprite.spr-netherlands-png { 
+	background-position: -256px -288px; 
 }
 
-.right-sprite.spr-fish-png {
-  background-position: -400px -1600px;
+.right-sprite.spr-new-caledonia-png { 
+	background-position: -288px -288px; 
 }
 
-.right-sprite.spr-flowers-png {
-  background-position: -600px -1600px;
+.right-sprite.spr-new-zealand-png { 
+	background-position: -320px -288px; 
 }
 
-.right-sprite.spr-fluid-fitness-1-month-png {
-  background-position: -800px -1600px;
+.right-sprite.spr-nicaragua-png { 
+	background-position: -352px -288px; 
 }
 
-.right-sprite.spr-fluid-fitness-gym-membership-png {
-  background-position: -1000px -1600px;
+.right-sprite.spr-niger-png { 
+	background-position: -384px -288px; 
 }
 
-.right-sprite.spr-flying-tiger-png {
-  background-position: -1200px -1600px;
+.right-sprite.spr-nigeria-png { 
+	background-position: -416px -288px; 
 }
 
-.right-sprite.spr-forest-cam-and-valencia-tour-png {
-  background-position: -1400px -1600px;
+.right-sprite.spr-niue-png { 
+	background-position: -448px -288px; 
 }
 
-.right-sprite.spr-four-seasons-png {
-  background-position: -1600px -1600px;
+.right-sprite.spr-norfolk-island-png { 
+	background-position: -480px -288px; 
 }
 
-.right-sprite.spr-french-fries-png {
-  background-position: -1800px -1600px;
+.right-sprite.spr-north-korea-png { 
+	background-position: -512px -288px; 
 }
 
-.right-sprite.spr-fresh-bangus-png {
-  background-position: -2000px -1600px;
+.right-sprite.spr-northern-cyprus-png { 
+	background-position: -0px -320px; 
 }
 
-.right-sprite.spr-fresh-calamansi-juice-png {
-  background-position: -2200px -1600px;
+.right-sprite.spr-northern-mariana-islands-png { 
+	background-position: -32px -320px; 
 }
 
-.right-sprite.spr-fresh-seasonal-fruit-plate-png {
-  background-position: -2400px -1600px;
+.right-sprite.spr-norway-png { 
+	background-position: -64px -320px; 
 }
 
-.right-sprite.spr-frogfish-specialty-course-png {
-  background-position: -2600px -1600px;
+.right-sprite.spr-olympics-png { 
+	background-position: -96px -320px; 
 }
 
-.right-sprite.spr-fruit-juice-in-can-png {
-  background-position: -2800px -1600px;
+.right-sprite.spr-oman-png { 
+	background-position: -128px -320px; 
 }
 
-.right-sprite.spr-full-board-png {
-  background-position: -3000px -1600px;
+.right-sprite.spr-pakistan-png { 
+	background-position: -160px -320px; 
 }
 
-.right-sprite.spr-full-day-classroom-png {
-  background-position: -3200px -1600px;
+.right-sprite.spr-palau-png { 
+	background-position: -192px -320px; 
 }
 
-.right-sprite.spr-full-equipment-rental-per-day-png {
-  background-position: -3400px -1600px;
+.right-sprite.spr-palestine-png { 
+	background-position: -224px -320px; 
 }
 
-.right-sprite.spr-full-equipment-png {
-  background-position: -3600px -1600px;
+.right-sprite.spr-panama-png { 
+	background-position: -256px -320px; 
 }
 
-.right-sprite.spr-fun-dive-1-9-old-rates-png {
-  background-position: -3800px -1600px;
+.right-sprite.spr-papua-new-guinea-png { 
+	background-position: -288px -320px; 
 }
 
-.right-sprite.spr-fun-dive-png {
-  background-position: -0px -1800px;
+.right-sprite.spr-paraguay-png { 
+	background-position: -320px -320px; 
 }
 
-.right-sprite.spr-fundive-10-png {
-  background-position: -200px -1800px;
+.right-sprite.spr-peru-png { 
+	background-position: -352px -320px; 
 }
 
-.right-sprite.spr-fundive-20-instructor-rate-png {
-  background-position: -400px -1800px;
+.right-sprite.spr-philippines-png { 
+	background-position: -384px -320px; 
 }
 
-.right-sprite.spr-funky-monkey-png {
-  background-position: -600px -1800px;
+.right-sprite.spr-pitcairn-islands-png { 
+	background-position: -416px -320px; 
 }
 
-.right-sprite.spr-gambas-al-ajillo-png {
-  background-position: -800px -1800px;
+.right-sprite.spr-poland-png { 
+	background-position: -448px -320px; 
 }
 
-.right-sprite.spr-garden-salad-png {
-  background-position: -1000px -1800px;
+.right-sprite.spr-portugal-png { 
+	background-position: -480px -320px; 
 }
 
-.right-sprite.spr-garlic-rice-png {
-  background-position: -1200px -1800px;
+.right-sprite.spr-puerto-rico-png { 
+	background-position: -512px -320px; 
 }
 
-.right-sprite.spr-gin-png {
-  background-position: -1400px -1800px;
+.right-sprite.spr-qatar-png { 
+	background-position: -0px -352px; 
 }
 
-.right-sprite.spr-halo-halo-png {
-  background-position: -1600px -1800px;
+.right-sprite.spr-red-cross-png { 
+	background-position: -32px -352px; 
 }
 
-.right-sprite.spr-hawaiian-pizza-2-png {
-  background-position: -1800px -1800px;
+.right-sprite.spr-republic-of-the-congo-png { 
+	background-position: -64px -352px; 
 }
 
-.right-sprite.spr-hawaiian-pizza-png {
-  background-position: -2000px -1800px;
+.right-sprite.spr-romania-png { 
+	background-position: -96px -352px; 
 }
 
-.right-sprite.spr-homestyle-oatmeal-png {
-  background-position: -2200px -1800px;
+.right-sprite.spr-russia-png { 
+	background-position: -128px -352px; 
 }
 
-.right-sprite.spr-honey-png {
-  background-position: -2400px -1800px;
+.right-sprite.spr-rwanda-png { 
+	background-position: -160px -352px; 
 }
 
-.right-sprite.spr-hotel-bed-png {
-  background-position: -2600px -1800px;
+.right-sprite.spr-saint-barthelemy-png { 
+	background-position: -192px -352px; 
 }
 
-.right-sprite.spr-imr-fundive-png {
-  background-position: -2800px -1800px;
+.right-sprite.spr-saint-helena-png { 
+	background-position: -224px -352px; 
 }
 
-.right-sprite.spr-indian-curry-with-flatbread-png {
-  background-position: -3000px -1800px;
+.right-sprite.spr-saint-kitts-and-nevis-png { 
+	background-position: -256px -352px; 
 }
 
-.right-sprite.spr-jack-daniels-png {
-  background-position: -3200px -1800px;
+.right-sprite.spr-saint-lucia-png { 
+	background-position: -288px -352px; 
 }
 
-.right-sprite.spr-jim-beam-png {
-  background-position: -3400px -1800px;
+.right-sprite.spr-saint-martin-png { 
+	background-position: -320px -352px; 
 }
 
-.right-sprite.spr-johnnie-walker-png {
-  background-position: -3600px -1800px;
+.right-sprite.spr-saint-vincent-and-the-grenadines-png { 
+	background-position: -352px -352px; 
 }
 
-.right-sprite.spr-just-pesto-png {
-  background-position: -3800px -1800px;
+.right-sprite.spr-samoa-png { 
+	background-position: -384px -352px; 
 }
 
-.right-sprite.spr-kamikazee-png {
-  background-position: -0px -2000px;
+.right-sprite.spr-san-marino-png { 
+	background-position: -416px -352px; 
 }
 
-.right-sprite.spr-keychain-png {
-  background-position: -200px -2000px;
+.right-sprite.spr-sao-tome-and-principe-png { 
+	background-position: -448px -352px; 
 }
 
-.right-sprite.spr-kokoos-nest-png {
-  background-position: -400px -2000px;
+.right-sprite.spr-saudi-arabia-png { 
+	background-position: -480px -352px; 
 }
 
-.right-sprite.spr-large-purse-png {
-  background-position: -600px -2000px;
+.right-sprite.spr-scotland-png { 
+	background-position: -512px -352px; 
 }
 
-.right-sprite.spr-laundry-1-2-kilo-png {
-  background-position: -800px -2000px;
+.right-sprite.spr-senegal-png { 
+	background-position: -0px -384px; 
 }
 
-.right-sprite.spr-laundry-1885-kg-png {
-  background-position: -1000px -2000px;
+.right-sprite.spr-serbia-png { 
+	background-position: -32px -384px; 
 }
 
-.right-sprite.spr-laundry-2175-kg-png {
-  background-position: -1200px -2000px;
+.right-sprite.spr-seychelles-png { 
+	background-position: -64px -384px; 
 }
 
-.right-sprite.spr-laundry-24-kilo-png {
-  background-position: -1400px -2000px;
+.right-sprite.spr-sierra-leone-png { 
+	background-position: -96px -384px; 
 }
 
-.right-sprite.spr-laundry-25-kilo-png {
-  background-position: -1600px -2000px;
+.right-sprite.spr-singapore-png { 
+	background-position: -128px -384px; 
 }
 
-.right-sprite.spr-laundry-28-kilos-png {
-  background-position: -1800px -2000px;
+.right-sprite.spr-slovakia-png { 
+	background-position: -160px -384px; 
 }
 
-.right-sprite.spr-laundry-39-kilos-png {
-  background-position: -2000px -2000px;
+.right-sprite.spr-slovenia-png { 
+	background-position: -192px -384px; 
 }
 
-.right-sprite.spr-laundry-kilo-png {
-  background-position: -2200px -2000px;
+.right-sprite.spr-solomon-islands-png { 
+	background-position: -224px -384px; 
 }
 
-.right-sprite.spr-lechon-corcage-png {
-  background-position: -2400px -2000px;
+.right-sprite.spr-somalia-png { 
+	background-position: -256px -384px; 
 }
 
-.right-sprite.spr-lechon-kawali-png {
-  background-position: -2600px -2000px;
+.right-sprite.spr-somaliland-png { 
+	background-position: -288px -384px; 
 }
 
-.right-sprite.spr-lemongrass-png {
-  background-position: -2800px -2000px;
+.right-sprite.spr-south-africa-png { 
+	background-position: -320px -384px; 
 }
 
-.right-sprite.spr-liloan-pier-to-cebu-airport-car-png {
-  background-position: -3000px -2000px;
+.right-sprite.spr-south-georgia-and-the-south-sandwich-islands-png { 
+	background-position: -352px -384px; 
 }
 
-.right-sprite.spr-liloan-pier-to-gold-berry-hotel-png {
-  background-position: -3200px -2000px;
+.right-sprite.spr-south-korea-png { 
+	background-position: -384px -384px; 
 }
 
-.right-sprite.spr-liloan-port-to-maya-port-cebu-car-png {
-  background-position: -3400px -2000px;
+.right-sprite.spr-south-ossetia-png { 
+	background-position: -416px -384px; 
 }
 
-.right-sprite.spr-liquers-baileys-png {
-  background-position: -3600px -2000px;
+.right-sprite.spr-south-sudan-png { 
+	background-position: -448px -384px; 
 }
 
-.right-sprite.spr-liqueurs-kahlua-png {
-  background-position: -3800px -2000px;
+.right-sprite.spr-spain-png { 
+	background-position: -480px -384px; 
 }
 
-.right-sprite.spr-liqueurs-sambucca-png {
-  background-position: -0px -2200px;
+.right-sprite.spr-sri-lanka-png { 
+	background-position: -512px -384px; 
 }
 
-.right-sprite.spr-liquid-baseball-cap-png {
-  background-position: -200px -2200px;
+.right-sprite.spr-sudan-png { 
+	background-position: -0px -416px; 
 }
 
-.right-sprite.spr-liquid-house-breakfast-png {
-  background-position: -400px -2200px;
+.right-sprite.spr-suriname-png { 
+	background-position: -32px -416px; 
 }
 
-.right-sprite.spr-liquid-rashguard-png {
-  background-position: -600px -2200px;
+.right-sprite.spr-swaziland-png { 
+	background-position: -64px -416px; 
 }
 
-.right-sprite.spr-liquid-t-shirt-png {
-  background-position: -800px -2200px;
+.right-sprite.spr-sweden-png { 
+	background-position: -96px -416px; 
 }
 
-.right-sprite.spr-liquid-to-airport-early-morning-5am-png {
-  background-position: -1000px -2200px;
+.right-sprite.spr-switzerland-png { 
+	background-position: -128px -416px; 
 }
 
-.right-sprite.spr-liquid-to-daro-dumaguete-png {
-  background-position: -1200px -2200px;
+.right-sprite.spr-syria-png { 
+	background-position: -160px -416px; 
 }
 
-.right-sprite.spr-liquid-to-dumaguete-png {
-  background-position: -1400px -2200px;
+.right-sprite.spr-taiwan-png { 
+	background-position: -192px -416px; 
 }
 
-.right-sprite.spr-liquid-to-sibulan-pier-half-png {
-  background-position: -1600px -2200px;
+.right-sprite.spr-tajikistan-png { 
+	background-position: -224px -416px; 
 }
 
-.right-sprite.spr-liquid-trucker-cap-png {
-  background-position: -1800px -2200px;
+.right-sprite.spr-tanzania-png { 
+	background-position: -256px -416px; 
 }
 
-.right-sprite.spr-lost-room-keys-png {
-  background-position: -2000px -2200px;
+.right-sprite.spr-thailand-png { 
+	background-position: -288px -416px; 
 }
 
-.right-sprite.spr-lumpiang-gulay-png {
-  background-position: -2200px -2200px;
+.right-sprite.spr-togo-png { 
+	background-position: -320px -416px; 
 }
 
-.right-sprite.spr-malatapay-transfer-png {
-  background-position: -2400px -2200px;
+.right-sprite.spr-tokelau-png { 
+	background-position: -352px -416px; 
 }
 
-.right-sprite.spr-mandarin-chicken-salad-png {
-  background-position: -2600px -2200px;
+.right-sprite.spr-tonga-png { 
+	background-position: -384px -416px; 
 }
 
-.right-sprite.spr-mango-mojito-png {
-  background-position: -2800px -2200px;
+.right-sprite.spr-trinidad-and-tobago-png { 
+	background-position: -416px -416px; 
 }
 
-.right-sprite.spr-mango-pork-jubilee-png {
-  background-position: -3000px -2200px;
+.right-sprite.spr-tunisia-png { 
+	background-position: -448px -416px; 
 }
 
-.right-sprite.spr-mango-png {
-  background-position: -3200px -2200px;
+.right-sprite.spr-turkey-png { 
+	background-position: -480px -416px; 
 }
 
-.right-sprite.spr-manngo-daquiri-png {
-  background-position: -3400px -2200px;
+.right-sprite.spr-turkmenistan-png { 
+	background-position: -512px -416px; 
 }
 
-.right-sprite.spr-manual-advanced-open-water-png {
-  background-position: -3600px -2200px;
+.right-sprite.spr-turks-and-caicos-islands-png { 
+	background-position: -0px -448px; 
 }
 
-.right-sprite.spr-margherita-pizza-png {
-  background-position: -3800px -2200px;
+.right-sprite.spr-tuvalu-png { 
+	background-position: -32px -448px; 
 }
 
-.right-sprite.spr-marine-sanctuary-fee-for-1-night-dive-png {
-  background-position: -0px -2400px;
+.right-sprite.spr-uganda-png { 
+	background-position: -64px -448px; 
 }
 
-.right-sprite.spr-marine-sanctuary-fees-for-2-divers-png {
-  background-position: -200px -2400px;
+.right-sprite.spr-ukraine-png { 
+	background-position: -96px -448px; 
 }
 
-.right-sprite.spr-marine-santuary-png {
-  background-position: -400px -2400px;
+.right-sprite.spr-united-arab-emirates-png { 
+	background-position: -128px -448px; 
 }
 
-.right-sprite.spr-market-fresh-catch-png {
-  background-position: -600px -2400px;
+.right-sprite.spr-united-kingdom-png { 
+	background-position: -160px -448px; 
 }
 
-.right-sprite.spr-mary-jane-bookingcom-png {
-  background-position: -800px -2400px;
+.right-sprite.spr-united-nations-png { 
+	background-position: -192px -448px; 
 }
 
-.right-sprite.spr-mask-and-snorkel-per-day-png {
-  background-position: -1000px -2400px;
+.right-sprite.spr-united-states-png { 
+	background-position: -224px -448px; 
 }
 
-.right-sprite.spr-mask-and-snorkel-rental-per-dive-png {
-  background-position: -1200px -2400px;
+.right-sprite.spr-unknown-png { 
+	background-position: -256px -448px; 
 }
 
-.right-sprite.spr-mask-rental-png {
-  background-position: -1400px -2400px;
+.right-sprite.spr-uruguay-png { 
+	background-position: -288px -448px; 
 }
 
-.right-sprite.spr-massage-1-and-half-hr-png {
-  background-position: -1600px -2400px;
+.right-sprite.spr-us-virgin-islands-png { 
+	background-position: -320px -448px; 
 }
 
-.right-sprite.spr-massage-png {
-  background-position: -1800px -2400px;
+.right-sprite.spr-uzbekistan-png { 
+	background-position: -352px -448px; 
 }
 
-.right-sprite.spr-mixed-drink-import-double-png {
-  background-position: -2000px -2400px;
+.right-sprite.spr-vanuatu-png { 
+	background-position: -384px -448px; 
 }
 
-.right-sprite.spr-mixed-drink-import-single-png {
-  background-position: -2200px -2400px;
+.right-sprite.spr-vatican-city-png { 
+	background-position: -416px -448px; 
 }
 
-.right-sprite.spr-mixed-drink-local-double-png {
-  background-position: -2400px -2400px;
+.right-sprite.spr-venezuela-png { 
+	background-position: -448px -448px; 
 }
 
-.right-sprite.spr-mixed-drink-local-single-png {
-  background-position: -2600px -2400px;
+.right-sprite.spr-vietnam-png { 
+	background-position: -480px -448px; 
 }
 
-.right-sprite.spr-motorbike-delivery-png {
-  background-position: -2800px -2400px;
+.right-sprite.spr-wales-png { 
+	background-position: -512px -448px; 
 }
 
-.right-sprite.spr-motorbike-rental-klx-day-png {
-  background-position: -3000px -2400px;
+.right-sprite.spr-wallis-and-futuna-png { 
+	background-position: -0px -480px; 
 }
 
-.right-sprite.spr-motorbike-rental-png {
-  background-position: -3200px -2400px;
+.right-sprite.spr-western-sahara-png { 
+	background-position: -32px -480px; 
 }
 
-.right-sprite.spr-nasi-goreng-png {
-  background-position: -3400px -2400px;
+.right-sprite.spr-yemen-png { 
+	background-position: -64px -480px; 
 }
 
-.right-sprite.spr-native-handbag-png {
-  background-position: -3600px -2400px;
+.right-sprite.spr-zambia-png { 
+	background-position: -96px -480px; 
 }
 
-.right-sprite.spr-night-dive-for-2-divers-png {
-  background-position: -3800px -2400px;
-}
-
-.right-sprite.spr-night-dive-png {
-  background-position: -0px -2600px;
-}
-
-.right-sprite.spr-nitrox-1-9-dives-png {
-  background-position: -200px -2600px;
-}
-
-.right-sprite.spr-nitrox-10-20-dives-png {
-  background-position: -400px -2600px;
-}
-
-.right-sprite.spr-not-found-wait-jpg {
-  background-position: -600px -2600px;
-}
-
-.right-sprite.spr-open-water-course-png {
-  background-position: -800px -2600px;
-}
-
-.right-sprite.spr-open-water-coursediscounted-rate-png {
-  background-position: -1000px -2600px;
-}
-
-.right-sprite.spr-orange-png {
-  background-position: -1200px -2600px;
-}
-
-.right-sprite.spr-oslob-whale-shark-watching-day-tourby-2pax-png {
-  background-position: -1400px -2600px;
-}
-
-.right-sprite.spr-ow-transportation-png {
-  background-position: -1600px -2600px;
-}
-
-.right-sprite.spr-owc-confined-dives-academic-png {
-  background-position: -1800px -2600px;
-}
-
-.right-sprite.spr-padi-aware-dive-against-debris-course-png {
-  background-position: -2000px -2600px;
-}
-
-.right-sprite.spr-padi-code-png {
-  background-position: -2200px -2600px;
-}
-
-.right-sprite.spr-pan-fried-chicken-png {
-  background-position: -2400px -2600px;
-}
-
-.right-sprite.spr-pan-roasted-pork-loin-png {
-  background-position: -2600px -2600px;
-}
-
-.right-sprite.spr-pancit-canton-png {
-  background-position: -2800px -2600px;
-}
-
-.right-sprite.spr-pasta-carbonara-png {
-  background-position: -3000px -2600px;
-}
-
-.right-sprite.spr-paul-hasley-png {
-  background-position: -3200px -2600px;
-}
-
-.right-sprite.spr-peak-performance-buoyancy-discounted-png {
-  background-position: -3400px -2600px;
-}
-
-.right-sprite.spr-pesto-pasta-png {
-  background-position: -3600px -2600px;
-}
-
-.right-sprite.spr-pesto-png {
-  background-position: -3800px -2600px;
-}
-
-.right-sprite.spr-philippine-mango-float-png {
-  background-position: -0px -2800px;
-}
-
-.right-sprite.spr-philippine-pork-bbq-png {
-  background-position: -200px -2800px;
-}
-
-.right-sprite.spr-phone-calls-charges-png {
-  background-position: -400px -2800px;
-}
-
-.right-sprite.spr-pineapple-png {
-  background-position: -600px -2800px;
-}
-
-.right-sprite.spr-plain-rice-png {
-  background-position: -800px -2800px;
-}
-
-.right-sprite.spr-plastic-warriors-png {
-  background-position: -1000px -2800px;
-}
-
-.right-sprite.spr-pork-and-grilled-apple-sub-png {
-  background-position: -1200px -2800px;
-}
-
-.right-sprite.spr-pork-humba-png {
-  background-position: -1400px -2800px;
-}
-
-.right-sprite.spr-post-card-coral-creature-set-of-png {
-  background-position: -1600px -2800px;
-}
-
-.right-sprite.spr-postcard-png {
-  background-position: -1800px -2800px;
-}
-
-.right-sprite.spr-private-guide-rental-per-day-png {
-  background-position: -2000px -2800px;
-}
-
-.right-sprite.spr-private-guide-rental-per-dive-png {
-  background-position: -2200px -2800px;
-}
-
-.right-sprite.spr-pulangbato-falls-png {
-  background-position: -2400px -2800px;
-}
-
-.right-sprite.spr-rashguard-shortslv-png {
-  background-position: -2600px -2800px;
-}
-
-.right-sprite.spr-red-rock-hots-spring-tour-png {
-  background-position: -2800px -2800px;
-}
-
-.right-sprite.spr-refresher-course-png {
-  background-position: -3000px -2800px;
-}
-
-.right-sprite.spr-regulator-rental-per-day-png {
-  background-position: -3200px -2800px;
-}
-
-.right-sprite.spr-regulator-rental-per-dive-png {
-  background-position: -3400px -2800px;
-}
-
-.right-sprite.spr-rescue-course-png {
-  background-position: -3600px -2800px;
-}
-
-.right-sprite.spr-royal-png {
-  background-position: -3800px -2800px;
-}
-
-.right-sprite.spr-salabat-ginger-tea-png {
-  background-position: -0px -3000px;
-}
-
-.right-sprite.spr-sanctuary-fee-png {
-  background-position: -200px -3000px;
-}
-
-.right-sprite.spr-seared-tuna-png {
-  background-position: -400px -3000px;
-}
-
-.right-sprite.spr-seasonal-fruit-plate-png {
-  background-position: -600px -3000px;
-}
-
-.right-sprite.spr-sex-on-the-beach-png {
-  background-position: -800px -3000px;
-}
-
-.right-sprite.spr-shrimp-png {
-  background-position: -1000px -3000px;
-}
-
-.right-sprite.spr-sibulan-pier-liquid-png {
-  background-position: -1200px -3000px;
-}
-
-.right-sprite.spr-sidemount-png {
-  background-position: -1400px -3000px;
-}
-
-.right-sprite.spr-sinigang-baboy-png {
-  background-position: -1600px -3000px;
-}
-
-.right-sprite.spr-sinuglaw-png {
-  background-position: -1800px -3000px;
-}
-
-.right-sprite.spr-skewers-png {
-  background-position: -2000px -3000px;
-}
-
-.right-sprite.spr-smoothies-png {
-  background-position: -2200px -3000px;
-}
-
-.right-sprite.spr-snorkel-apo-png {
-  background-position: -2400px -3000px;
-}
-
-.right-sprite.spr-snorkel-dauin-png {
-  background-position: -2600px -3000px;
-}
-
-.right-sprite.spr-soda-water-png {
-  background-position: -2800px -3000px;
-}
-
-.right-sprite.spr-sound-system-charge-png {
-  background-position: -3000px -3000px;
-}
-
-.right-sprite.spr-southern-comfort-png {
-  background-position: -3200px -3000px;
-}
-
-.right-sprite.spr-spaghetti-aglio-olio-png {
-  background-position: -3400px -3000px;
-}
-
-.right-sprite.spr-spaghetti-bolognese-png {
-  background-position: -3600px -3000px;
-}
-
-.right-sprite.spr-spicy-korean-png {
-  background-position: -3800px -3000px;
-}
-
-.right-sprite.spr-sprite-png {
-  background-position: -0px -3200px;
-}
-
-.right-sprite.spr-standard-room-bookingcom-png {
-  background-position: -200px -3200px;
-}
-
-.right-sprite.spr-standard-room-ctrip-x-png {
-  background-position: -400px -3200px;
-}
-
-.right-sprite.spr-standard-room-ctrip-png {
-  background-position: -600px -3200px;
-}
-
-.right-sprite.spr-standard-room-repeat-guest-rate-png {
-  background-position: -800px -3200px;
-}
-
-.right-sprite.spr-standard-room-x2-bookingcom-png {
-  background-position: -1000px -3200px;
-}
-
-.right-sprite.spr-standard-room-png {
-  background-position: -1200px -3200px;
-}
-
-.right-sprite.spr-strawberry-png {
-  background-position: -1400px -3200px;
-}
-
-.right-sprite.spr-stuffed-potato-skins-png {
-  background-position: -1600px -3200px;
-}
-
-.right-sprite.spr-sumilon-daytrip-png {
-  background-position: -1800px -3200px;
-}
-
-.right-sprite.spr-sumilon-sf-png {
-  background-position: -2000px -3200px;
-}
-
-.right-sprite.spr-sweet-sour-pork-png {
-  background-position: -2200px -3200px;
-}
-
-.right-sprite.spr-swimming-halfday-png {
-  background-position: -2400px -3200px;
-}
-
-.right-sprite.spr-tanduay-12-year-png {
-  background-position: -2600px -3200px;
-}
-
-.right-sprite.spr-tea-cup-png {
-  background-position: -2800px -3200px;
-}
-
-.right-sprite.spr-tea-pot-png {
-  background-position: -3000px -3200px;
-}
-
-.right-sprite.spr-tequiila-png {
-  background-position: -3200px -3200px;
-}
-
-.right-sprite.spr-tequila-png {
-  background-position: -3400px -3200px;
-}
-
-.right-sprite.spr-thai-style-mango-curry-png {
-  background-position: -3600px -3200px;
-}
-
-.right-sprite.spr-thalatta-surcharge-png {
-  background-position: -3800px -3200px;
-}
-
-.right-sprite.spr-thallata-surcharge-png {
-  background-position: -0px -3400px;
-}
-
-.right-sprite.spr-tom-collins-png {
-  background-position: -200px -3400px;
-}
-
-.right-sprite.spr-tonic-water-png {
-  background-position: -400px -3400px;
-}
-
-.right-sprite.spr-tooth-paste-png {
-  background-position: -600px -3400px;
-}
-
-.right-sprite.spr-torta-talong-png {
-  background-position: -800px -3400px;
-}
-
-.right-sprite.spr-tortang-talong-png {
-  background-position: -1000px -3400px;
-}
-
-.right-sprite.spr-tote-bag-big-png {
-  background-position: -1200px -3400px;
-}
-
-.right-sprite.spr-tourisn0-growth-1687310278-jpg {
-  background-position: -1400px -3400px;
-}
-
-.right-sprite.spr-tourisn0-growth-jpg {
-  background-position: -1600px -3400px;
-}
-
-.right-sprite.spr-transfer-cancellation-late-notice-png {
-  background-position: -1800px -3400px;
-}
-
-.right-sprite.spr-trike-hazel-spa-liquid-png {
-  background-position: -2000px -3400px;
-}
-
-.right-sprite.spr-trike-liquid-dauinhazel-spa-png {
-  background-position: -2200px -3400px;
-}
-
-.right-sprite.spr-tumbler-png {
-  background-position: -2400px -3400px;
-}
-
-.right-sprite.spr-twin-lakes-van-max-8paxs-png {
-  background-position: -2600px -3400px;
-}
-
-.right-sprite.spr-upgrade-fee-png {
-  background-position: -2800px -3400px;
-}
-
-.right-sprite.spr-valencia-fried-rice-png {
-  background-position: -3000px -3400px;
-}
-
-.right-sprite.spr-vegetarian-falafel-wrap-png {
-  background-position: -3200px -3400px;
-}
-
-.right-sprite.spr-vegetarian-png {
-  background-position: -3400px -3400px;
-}
-
-.right-sprite.spr-venue-fee-day-use-mon-fri-png {
-  background-position: -3600px -3400px;
-}
-
-.right-sprite.spr-venue-fee-day-use-sat-sun-png {
-  background-position: -3800px -3400px;
-}
-
-.right-sprite.spr-venue-fee-overnight-sat-sun-png {
-  background-position: -0px -3600px;
-}
-
-.right-sprite.spr-venue-fee-overnight-weekend-png {
-  background-position: -200px -3600px;
-}
-
-.right-sprite.spr-venue-fee-with-1-deluxe-room-2-standard-rooms-png {
-  background-position: -400px -3600px;
-}
-
-.right-sprite.spr-vitality-tofu-burger-png {
-  background-position: -600px -3600px;
-}
-
-.right-sprite.spr-vodka-png {
-  background-position: -800px -3600px;
-}
-
-.right-sprite.spr-waiting-time-png {
-  background-position: -1000px -3600px;
-}
-
-.right-sprite.spr-walk-in-jul-x-png {
-  background-position: -1200px -3600px;
-}
-
-.right-sprite.spr-watermelon-png {
-  background-position: -1400px -3600px;
-}
-
-.right-sprite.spr-wetsuit-rental-rental-per-day-png {
-  background-position: -1600px -3600px;
-}
-
-.right-sprite.spr-wetsuit-rental-rental-per-dive-png {
-  background-position: -1800px -3600px;
-}
-
-.right-sprite.spr-white-rum-png {
-  background-position: -2000px -3600px;
-}
-
-.right-sprite.spr-white-russian-png {
-  background-position: -2200px -3600px;
-}
-
-.right-sprite.spr-whole-fresh-coconut-png {
-  background-position: -2400px -3600px;
-}
-
-.right-sprite.spr-wine-red-bottle-png {
-  background-position: -2600px -3600px;
-}
-
-.right-sprite.spr-wine-red-glass-png {
-  background-position: -2800px -3600px;
-}
-
-.right-sprite.spr-wine-white-glass-png {
-  background-position: -3000px -3600px;
-}
-
-.right-sprite.spr-wreck-diver-png {
-  background-position: -3200px -3600px;
-}
-
-.right-sprite.spr-yoga-1-hr-session-png {
-  background-position: -3400px -3600px;
-}
-
-.right-sprite.spr-yoga-class-png {
-  background-position: -3600px -3600px;
-}
-
-.right-sprite.spr-zamboaguita-day-trip-png {
-  background-position: -3800px -3600px;
+.right-sprite.spr-zimbabwe-png { 
+	background-position: -128px -480px; 
 }
